@@ -1,7 +1,7 @@
-### Hi there👋 
+## Hi there👋 
 ## I am Raghav Jindal
-# Pleasure to meet you 
-# A passionate Developer from India 🇮🇳
+### Pleasure to meet you 
+### A passionate Developer from India 🇮🇳
 
 ![](https://komarev.com/ghpvc/?username=RaghavJindal2000&color=blue&style=flat&label=Profile+Visits)
 
