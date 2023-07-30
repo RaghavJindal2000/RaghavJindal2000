@@ -8,11 +8,10 @@
  
 </div>
 
-<h3 align="center">
+<p align="center">
 Pleasure to meet you<br/> 
-A passionate Developer 💻 from India 🇮🇳<br/>
-🌐 Site : ![Porfolio/Bio Website](https://raghavjindal2000.github.io)<br/>
-</h3>
+A Passionate Developer 💻 from India ~ 🇮🇳<br/>
+</p>
 
 ## About Me
 
@@ -25,6 +24,8 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 - 🔭 I’m currently working on exciting projects of AI.
 
 - 🌱 I’m constantly learning and growing my knowledge.
+
+- 🌐 My Personal [Portfolio/Website](https://raghavjindal2000.github.io)
 
 - 👨‍💻 All of my Public projects are available at [Github](https://github.com/RaghavJindal2000/)
 
@@ -56,7 +57,7 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on any of the following. Let's learn and grow together!
 
-[![Github]()](https://www.github.com/in/raghavjindal2000/)
+[![Github2]()](https://www.github.com/in/raghavjindal2000/)
 [![LinkedIn]()](https://www.linkedin.com/in/raghavjindal2000/)
 [![Twitter]()](https://twitter.com/Raghav__Jindal)
 
