@@ -1,11 +1,12 @@
-![Raghav Jindal](https://github.com/RaghavJindal2000/RaghavJindal2000/raw/main/assets/profile_banner.png)
-
+![Raghav Jindal](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 ## Hi there👋 
 ## I am Raghav Jindal
 ### Pleasure to meet you 
 ### A passionate Developer from India 🇮🇳
-
+<a href="https://raghavjindal2000.github.io"> 
+<h3> Site : Porfolio/Bio Website </h3>  
+</a>
 
 ## About Me
 
@@ -37,6 +38,6 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raghavjindal2000/). Let's learn and grow together!
 
 ![](https://komarev.com/ghpvc/?username=RaghavJindal2000&color=blue&style=flat&label=Profile+Visits)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RaghavJindal&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RaghavJindal2000&left_color=green&right_color=red)
 
 Happy coding! 🚀
