@@ -9,9 +9,9 @@
 </div>
 
 <h3 align="center">
-Pleasure to meet you 
-### A passionate Developer 💻 from India 🇮🇳
-#### 🌐 Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
+Pleasure to meet you<br/> 
+A passionate Developer 💻 from India 🇮🇳<br/>
+🌐 Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io)<br/>
 </h3>
 
 ## About Me
