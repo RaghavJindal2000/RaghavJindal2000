@@ -1,13 +1,13 @@
-<p align="center">
 ![Raghav Jindal](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)">
+</p>
 
 ## Hi there👋 
 ## I am Raghav Jindal
 ### Pleasure to meet you 
 ### A passionate Developer from India 🇮🇳
 #### Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
-
-</p>
 
 ## About Me
 
