@@ -33,7 +33,7 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 - 📫 How to reach me **raghavjindal2000@gmail.com**
 
 
-
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavjindal2000&show_icons=true&theme=radical)
 
 
 
