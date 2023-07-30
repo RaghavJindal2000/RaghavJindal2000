@@ -32,9 +32,9 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 - 📫 How to reach me **raghavjindal2000@gmail.com**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raghavjindal2000&repo=github-readme-stats)](https://github.com/raghavjindal2000/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raghavjindal2000&repo=raghavjindal2000)](https://github.com/raghavjindal2000/raghavjindal2000)
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavjindal2000&show_icons=true&theme=agolia)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavjindal2000)](https://github.com/raghavjindal2000/github-readme-stats)
 
 
 ## Let's Connect!
