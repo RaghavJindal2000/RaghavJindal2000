@@ -61,7 +61,18 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on any of the following. Let's learn and grow together!
 
-
+<p align="left">
+<a href="https://twitter.com/raghav__jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav__jindal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raghavjindal2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavjindal2000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCg0CMcimPX44fwPQH4FueGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raghav jindal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22307683/raghavjindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22307683/raghavjindal" height="30" width="40" /></a>
+<a href="https://kaggle.com/raghavjindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raghavjindal" height="30" width="40" /></a>
+<a href="https://medium.com/@raghavjindal2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raghavjindal2000" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/raghav_jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghav_jindal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/raghavjindal2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghavjindal2000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/raghavjindal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raghavjindal/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/raghavjindal2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raghavjindal2000" height="30" width="40" /></a>
+</p>
 
 
 
