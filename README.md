@@ -4,13 +4,10 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&size=35&center=true&vCenter=true&width=600&lines=Hi+There+👋+%2C+I'm+Sparsh!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&size=35&center=true&vCenter=true&width=600&lines=Hi+There+👋+%2C+I'm+Raghav+Jindal!)](https://git.io/typing-svg)
  
 </div>
 
-
-## Hi there👋 
-## I am Raghav Jindal
 ### Pleasure to meet you 
 ### A passionate Developer from India 🇮🇳
 #### Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
