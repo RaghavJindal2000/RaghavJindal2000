@@ -9,8 +9,8 @@
 </div>
 
 ### Pleasure to meet you 
-### A passionate Developer from India 🇮🇳
-#### Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
+### A passionate Developer 💻 from India 🇮🇳
+#### 🌐 Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
 
 ## About Me
 
