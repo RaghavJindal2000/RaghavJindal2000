@@ -1,6 +1,5 @@
-![Raghav Jindal](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)">
+  <img width="460" height="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </p>
 
 ## Hi there👋 
