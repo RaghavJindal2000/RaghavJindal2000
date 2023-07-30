@@ -48,17 +48,18 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 </details>
 
-## Let's Connect!
+### Let's Connect 🤝!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on any of the following. Let's learn and grow together!
 
 
-[![LinkedIn](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fca%2FLinkedIn_logo_initials.png%2F800px-LinkedIn_logo_initials.png&tbnid=m07o67zmNHn6OM&vet=12ahUKEwjj5obVoLWAAxVWBFkFHWQbCmYQMygAegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&docid=YvoKnije3nifwM&w=800&h=800&q=linkedin%20logo&client=safari&ved=2ahUKEwjj5obVoLWAAxVWBFkFHWQbCmYQMygAegUIARD1AQ)](https://www.linkedin.com/in/raghavjindal2000/)
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.linkedin.com/in/raghavjindal2000/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Raghav%Jindal-green?style=for-the-badge&logo=X)](https://twitter.com/Raghav__Jindal)
 
 
 
+#### Visitor Count
 
 ![Visitor](https://komarev.com/ghpvc/?username=RaghavJindal2000&color=blue&style=flat&label=Profile+Visits)
 
