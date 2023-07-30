@@ -35,7 +35,6 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/raghavjindal2000/). Let's learn and grow together!
 
-![Visitors_number](https://komarev.com/ghpvc/?username=RaghavJindal2000&color=blue&style=flat&label=Profile+Visits)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RaghavJindal2000.visitor-badge&left_text=Hello%Visitor&left_color=green&right_color=red)
+![Visitor](https://komarev.com/ghpvc/?username=RaghavJindal2000&color=blue&style=flat&label=Profile+Visits)
 
 Happy coding! 🚀
