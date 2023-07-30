@@ -1,4 +1,6 @@
+<center>
 ![Raghav Jindal](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+</center>
 
 ## Hi there👋 
 ## I am Raghav Jindal
