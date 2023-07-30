@@ -8,15 +8,19 @@
  
 </div>
 
-### Pleasure to meet you 
+<h3 align="center">
+Pleasure to meet you 
 ### A passionate Developer 💻 from India 🇮🇳
 #### 🌐 Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
+</h3>
 
 ## About Me
 
 Strong Engineering professional with a Masters of Applied Sciences - MSc. Focused in Applied Data Analytics from Boston University.
 
 A passionate developer and a technology enthusiast. Here, you'll find a collection of my projects, contributions, and explorations in the world of code. Feel free to browse through and explore the various repositories.
+
+- 🌍 Currently Based in Boston,USA
 
 - 🔭 I’m currently working on exciting projects of AI.
 
@@ -52,10 +56,9 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on any of the following. Let's learn and grow together!
 
-
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.linkedin.com/in/raghavjindal2000/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-Raghav%Jindal-green?style=for-the-badge&logo=X)](https://twitter.com/Raghav__Jindal)
+[![Github]()](https://www.github.com/in/raghavjindal2000/)
+[![LinkedIn]()](https://www.linkedin.com/in/raghavjindal2000/)
+[![Twitter]()](https://twitter.com/Raghav__Jindal)
 
 
 
