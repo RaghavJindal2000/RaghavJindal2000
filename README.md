@@ -1,3 +1,4 @@
+<p align="center">
 ![Raghav Jindal](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 ## Hi there👋 
@@ -5,6 +6,8 @@
 ### Pleasure to meet you 
 ### A passionate Developer from India 🇮🇳
 #### Site : [Porfolio/Bio Website](https://raghavjindal2000.github.io) 
+
+</p>
 
 ## About Me
 
