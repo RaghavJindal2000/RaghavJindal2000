@@ -4,9 +4,7 @@
 ## I am Raghav Jindal
 ### Pleasure to meet you 
 ### A passionate Developer from India 🇮🇳
-<a href="https://raghavjindal2000.github.io"> 
-<h3> Site : Porfolio/Bio Website </h3>  
-</a>
+### Site : Porfolio/Bio Website [Website](https://raghavjindal2000.github.io) 
 
 ## About Me
 
