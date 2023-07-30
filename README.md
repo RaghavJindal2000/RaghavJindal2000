@@ -34,13 +34,14 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 <details>
   <summary>:zap: Github Stats</summary>
-
+<br/>
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavjindal2000\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 </deatils>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavjindal2000\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/raghavjindal2000/github-readme-stats)
 
