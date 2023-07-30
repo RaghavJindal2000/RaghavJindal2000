@@ -2,6 +2,13 @@
   <img width="460" height="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </p>
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&size=35&center=true&vCenter=true&width=600&lines=Hi+There+👋+%2C+I'm+Sparsh!)](https://git.io/typing-svg)
+ 
+</div>
+
+
 ## Hi there👋 
 ## I am Raghav Jindal
 ### Pleasure to meet you 
