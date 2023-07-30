@@ -33,7 +33,7 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 - 📫 How to reach me **raghavjindal2000@gmail.com**
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>🔥 Github Stats</summary>
 <br/>
   
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavjindal2000\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
@@ -41,7 +41,7 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>🔥 Most Used Languages</summary>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavjindal2000\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/raghavjindal2000/github-readme-stats)
@@ -54,7 +54,8 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav%20Jindal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghavjindal2000/)
-[![Twitter](https://img.shields.io/badge/Twitter-Raghav%Jindal-green?style=for-the-badge&logo=Twitter)](https://twitter.com/RaghavJindal2000)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Raghav%Jindal-green?style=for-the-badge&logo=Twitter)](https://twitter.com/Raghav__Jindal)
 
 
 
