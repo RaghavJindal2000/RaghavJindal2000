@@ -31,7 +31,7 @@ A passionate developer and a technology enthusiast. Here, you'll find a collecti
 
 - 👯 I’m looking to collaborate on Python Projects
   
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with AI
 
 - 💬 Ask me about anything related to technology and programming; I'm happy to help!
 
